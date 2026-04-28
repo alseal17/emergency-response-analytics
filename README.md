@@ -1,5 +1,9 @@
 # 🚑 Emergency Response Demand Analysis & Prediction
 
+## 📓 Notebook
+
+[View Full Analysis](notebooks/01_eda_modeling.ipynb)
+
 ## ⭐ Project Highlights
 - Identified peak emergency demand windows using time-series analysis  
 - Discovered distinct behavioral patterns across EMS, Traffic, and Fire incidents  
