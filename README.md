@@ -134,3 +134,9 @@ These results demonstrate that even simple models can effectively identify high-
 - Pandas / NumPy  
 - Seaborn / Matplotlib  
 - Scikit-learn  
+
+---
+
+## 💡 Summary
+
+This project demonstrates how time-based patterns in emergency call data can be used to identify high-demand periods and support more efficient resource allocation. By combining exploratory analysis with predictive modeling, it highlights the value of data-driven decision-making in public safety operations.
