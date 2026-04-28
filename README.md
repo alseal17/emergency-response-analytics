@@ -39,7 +39,14 @@ This project analyzes 911 emergency call data to identify temporal demand patter
 Time-based features were engineered from raw timestamps to support analysis and modeling.
 
 ---
+## 📁 Project Structure
 
+- notebooks/ → analysis and modeling notebook  
+- data/ → raw and processed data (not included)  
+- reports/ → figures and outputs  
+- src/ → reusable code (future expansion)
+
+---
 ## 🔍 Key Insights
 
 ### ⏱️ Temporal Patterns
